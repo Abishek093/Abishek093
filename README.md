@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/v2/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1670602482212?e=1731542400&v=beta&t=IbrTO5vu8w3Ebkl2j5h_oK6UhN8er_Wqa12yh5jNqO4))](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*3RrAoZWTBBl13gHhIMpQYg.gif)](https://github.com/Abishek093)
 <h1 align="center">Hi 👋, I'm Abishek K S</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
