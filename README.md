@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/v2/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1670602482212?e=1731542400&v=beta&t=IbrTO5vu8w3Ebkl2j5h_oK6UhN8er_Wqa12yh5jNqO4))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abishek K S</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF0emx1czNxOWN1NmttZjFyYjZwMGVpbTlnczdlZjR3Z2dpbDBnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="abishek093" /> </p>
 
 - 🔭 I’m currently working on **XOX(Gamers Community)**
